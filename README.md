@@ -4,12 +4,14 @@ Gitployment is a simple project to show how you can add 1 file and a link in you
    
 - Step 1    
 Create a new file in your repo on GitHub called app.json and add your project information like this,
-`{ 
+```
+{ 
   "name": "Gitployment", 
   "description": "PHP powered example.", 
   "repository": "https://github.com/GreyJustice/Gitployment/",   
   "keywords": ["Deployment example", "Deploy to Heroku example project", "test"]
-}`
+}
+```
    
     
 - Step 2    
